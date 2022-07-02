@@ -25,7 +25,7 @@ body, x-www-from-urlencoded
   Key      Value
 mesaj      Selam
 adres      :50561
-# ornek - 2
+# Ornek - 2
 
 User-2 Postman
 http://localhost:8080/Al
