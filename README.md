@@ -1,4 +1,4 @@
-# Go-Network-P2P
+# Go-Network-P2P-API
 
 noise , merkezi olmayan uygulamalar ve Go'da yazılmış kriptografik protokoller için üzerinde düşünülmüş, kullanımı kolay bir P2P ağ yığınıdır.
 
